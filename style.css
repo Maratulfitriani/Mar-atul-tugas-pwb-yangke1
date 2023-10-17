@@ -3,5 +3,8 @@ body {
 }
 
 p {
-    color: aqua;
+    color: blue;
+  font-family:Monospace;
+  font-size: 150%;
+
 }
