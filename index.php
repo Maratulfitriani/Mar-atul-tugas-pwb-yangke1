@@ -39,7 +39,7 @@ ol   {color:red;
     <h3>Cara Bergabung Ke Media Online</h3>
  <ol>
     <li>Mengunjungi Website ini</li>
-    <li>Mendapatkan di from <a href="form.html">From Sign Up</a></li>
+    <li>Mendapatkan di from <a href="form.php">From Sign Up</a></li>
     <li>Selesai</li>
  </ol>
 <body>

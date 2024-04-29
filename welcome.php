@@ -11,5 +11,11 @@
 <body>
     <h1>SELAMAT DATANG!</h1>
     <p>Terima kasih telah bergabung di website kami. Media belajar kita bersama!</p>
+    Nama: <?php echo $_POST["first-name"]; ?> 
+    <?php echo $_POST["last-name"]; ?><br>
+    Gender: <?php echo $_POST["gender"]; ?><br>
+    <?php echo $_POST["nationality"]; ?><br>
+    <?php echo $_POST["language"]; ?><br>
+    <?php echo $_POST["bio"]; ?><br>
 </body>
 </html>
